@@ -15,7 +15,7 @@ namespace MIS4200Team6.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Centric Consulting";
+            ViewBag.Message = "Your application description page.";
 
             return View();
         }
